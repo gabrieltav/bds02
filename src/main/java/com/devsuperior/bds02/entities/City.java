@@ -46,7 +46,7 @@ public class City {
 		this.name = name;
 	}
 
-	public List<Event> getEvents() {
+	public List<Event> getEvent() {
 		return events;
 	}
 }

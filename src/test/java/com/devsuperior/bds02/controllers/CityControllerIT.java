@@ -35,7 +35,7 @@ public class CityControllerIT {
 	}
 
 	@Test
-	public void deleteShouldReturnNotFoundWhenNonExistingId() throws Exception {		
+	public void deleteShouldReturnNotFoundWhenNonExistingId() throws Exception {	
 
 		Long nonExistingId = 50L;
 		
